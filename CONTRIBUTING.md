@@ -1,0 +1,1 @@
+Before contributing, please read the guidelines and Code Of Conduct that are already available. Every activity will be subject to and comply with the applicable laws and regulations in accordance with the provisions.
